@@ -1,0 +1,7 @@
+C:\Users\Wgladson\source\repos\SharpMap\SharpMap\bin\Debug\SharpMap.exe.config
+C:\Users\Wgladson\source\repos\SharpMap\SharpMap\bin\Debug\SharpMap.exe
+C:\Users\Wgladson\source\repos\SharpMap\SharpMap\bin\Debug\SharpMap.pdb
+C:\Users\Wgladson\source\repos\SharpMap\SharpMap\obj\Debug\SharpMap.csproj.AssemblyReference.cache
+C:\Users\Wgladson\source\repos\SharpMap\SharpMap\obj\Debug\SharpMap.csproj.CoreCompileInputs.cache
+C:\Users\Wgladson\source\repos\SharpMap\SharpMap\obj\Debug\SharpMap.exe
+C:\Users\Wgladson\source\repos\SharpMap\SharpMap\obj\Debug\SharpMap.pdb
